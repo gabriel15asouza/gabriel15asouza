@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Alves de Souza and I'm from Brazil.<br><br>- 📚 I'm currently learning Systems Analysis and Developement <br>-</p>
+<p align="left">My name is Gabriel Alves de Souza and I'm from Brazil.<br><br>- 📚 I'm currently learning Systems Analysis and Developement </p>
 
 ###
 
