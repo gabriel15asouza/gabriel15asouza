@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 ###
 
@@ -55,13 +55,13 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" >
 <a href="https://github.com/gabriel15asouza/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel15asouza&layout=donut-vertical&incons=true&theme=synthwave"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel15asouza&layout=donut-vertical&theme=synthwave&text_color=6ff63e&border_radius=15&text_size=20"
 </a>
-  
+<img width="7" />
 <a href="https://github.com/gabrel15asouza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel15asouza&incons=true&theme=synthwave" />
+  <img heigth="400" src="https://github-readme-stats.vercel.app/api?username=gabriel15asouza&show_icons=true&theme=synthwave&border_radius=15&text_color=6ff63e&line_height=34&icon_color=e93ef6"/>
 </a>
 
 </div>
