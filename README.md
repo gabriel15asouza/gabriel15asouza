@@ -1,4 +1,4 @@
-<h1>Learning to find the beauty in the process🌱</h1>
+<h1 align="center">Learning to find the beauty in the process🌱</h1>
 
 ###
 
@@ -57,11 +57,11 @@
 
 <div align="center" >
 <a href="https://github.com/gabriel15asouza/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel15asouza&layout=donut-vertical&theme=synthwave&text_color=6ff63e&border_radius=15&text_size=20"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel15asouza&layout=donut&theme=synthwave&text_color=6ff63e&border_radius=15"/>
 </a>
 <img width="7" />
 <a href="https://github.com/gabrel15asouza/github-readme-stats">
-  <img heigth="400" src="https://github-readme-stats.vercel.app/api?username=gabriel15asouza&show_icons=true&theme=synthwave&border_radius=15&text_color=6ff63e&line_height=34&icon_color=e93ef6"/>
+  <img heigth="400" src="https://github-readme-stats.vercel.app/api?username=gabriel15asouza&show_icons=true&theme=synthwave&border_radius=15&text_color=6ff63e&icon_color=e93ef6&line_height=28"/>
 </a>
 
 </div>
