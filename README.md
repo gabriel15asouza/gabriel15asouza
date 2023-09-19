@@ -1,4 +1,4 @@
-<h1 align="center">Learning to find the beauty in the process🌱</h1>
+<img align='center' src="/assets/Banner Github.jpg">
 
 ###
 
